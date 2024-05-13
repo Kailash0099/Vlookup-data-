@@ -1,4 +1,4 @@
-# Vlookup-data-
+# Vlookup-data
 
 
 Vlookup is also called Vertical lookup. 
